@@ -1,9 +1,7 @@
 # 📊 Inventory Performance Dashboard
 
 
-## Professional Data Analyst Portfolio Project
-
-Advanced Inventory Analytics • Business Intelligence • Executive KPI Reporting
+## Data Analyst Portfolio Project
 
 </div>
 
