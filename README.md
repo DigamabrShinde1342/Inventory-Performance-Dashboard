@@ -1,8 +1,5 @@
 # 📊 Inventory Performance Dashboard
 
-
-## Data Analyst Portfolio Project
-
 </div>
 
 ---
